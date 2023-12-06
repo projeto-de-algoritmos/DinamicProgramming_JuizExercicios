@@ -1,9 +1,9 @@
-# Dividir e Conquistar - Exercicios Juiz
+# Programação dinâmica - Exercicios Juiz
 
 ## 1 - Descrição dos Exercícios
 
-1. [Link para desafio]()
-2. [Link para desafio]()
+1. [Regular expression](https://leetcode.com/problems/regular-expression-matching/)
+2. [Best time stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 3. [Link para desafio]()
 4. [Link para desafio]()
 
