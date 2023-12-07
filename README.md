@@ -34,7 +34,7 @@ python3 <nome_do_arquivo.py> < <nome_do_arquivo.txt>
 
 
 ## 4 - Apresentação
-[Link para a apresentação]()
+[Link para a apresentação](https://youtu.be/giIe1tkJXq4)
 
 ## 5 - Integrantes
 
